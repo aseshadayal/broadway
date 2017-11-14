@@ -1,0 +1,19 @@
+html{
+  text-align: center;
+  font-family: helvetica;
+}
+
+.heading {
+  background-color: black;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a.menu {
+  font-size: 18px;
+  color: white;
+}
